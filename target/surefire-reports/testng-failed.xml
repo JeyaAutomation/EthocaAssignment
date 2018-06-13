@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="tests.ShoppingCartTests">
+        <methods>
+          <include name="removeAnItem_ffromCheckoutPage_removedSuccessfully" invocation-numbers="0"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="createOrder_forOneMagicMouse_createdSuccessfully" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.ShoppingCartTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

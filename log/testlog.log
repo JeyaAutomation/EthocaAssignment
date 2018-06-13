@@ -1,0 +1,209 @@
+2018-06-13 13:26:38,936 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:27:17,162 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:27:20,750 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:27:21,787 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:27:24,984 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:27:25,997 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:27:27,133 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:27:27,272 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:27:29,378 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:27:29,555 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:27:31,580 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:27:31,705 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:27:37,177 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:27:38,262 - pageobjects.CheckoutPage -INFO - Verifying checkout page displays right items with right quantities and prices
+2018-06-13 13:27:38,637 - pageobjects.CheckoutPage -INFO - Click continue and navigate to billing information
+2018-06-13 13:27:38,755 - pageobjects.BillingInfoPage -INFO - Waiting for page to load
+2018-06-13 13:27:39,768 - pageobjects.BillingInfoPage -INFO - Attempting to fill the form of type 'class pageobjects.BillingInfoPage'
+2018-06-13 13:27:39,831 - pageobjects.BillingInfoPage -INFO -   Inputting value 'fakeemail@yhaoo.com' for textbox field 'email'.
+2018-06-13 13:27:40,419 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Firstname' for textbox field 'billingFirstName'.
+2018-06-13 13:27:40,814 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Lastname' for textbox field 'billingLastName'.
+2018-06-13 13:27:41,171 - pageobjects.BillingInfoPage -INFO -   Inputting value '100 Fake St' for textarea field 'billingAddress'.
+2018-06-13 13:27:41,749 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Fakecity' for textbox field 'billingCity'.
+2018-06-13 13:27:42,185 - pageobjects.BillingInfoPage -INFO -  Selecting value 'Canada' for dropdown field 'billingCountry'.
+2018-06-13 13:27:42,469 - pageobjects.BillingInfoPage -INFO -   Inputting value 'L1L 1L1' for textbox field 'billingPostcode'.
+2018-06-13 13:27:42,854 - pageobjects.BillingInfoPage -INFO -   Inputting value '4161111111' for textbox field 'billingPhone'.
+2018-06-13 13:27:43,236 - pageobjects.BillingInfoPage -INFO -   Selecting checkbox field 'shippingSameBilling'.
+2018-06-13 13:27:43,354 - pageobjects.BillingInfoPage -INFO - Click on Purchase button and confirm the order
+2018-06-13 13:27:55,760 - pageobjects.TransactionResultPage -INFO - Waiting for page to load
+2018-06-13 13:27:56,779 - pageobjects.TransactionResultPage -INFO - Verifying Transaction result page displays right items with right quantities and prices
+2018-06-13 13:27:57,375 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:28:00,138 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:28:01,156 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:28:04,189 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:28:05,208 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:28:06,305 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:28:06,484 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:28:11,142 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:28:12,317 - pageobjects.CheckoutPage -INFO - Verifying checkout page displays right items with right quantities and prices
+2018-06-13 13:28:12,609 - pageobjects.CheckoutPage -INFO - Click continue and navigate to billing information
+2018-06-13 13:28:12,795 - pageobjects.BillingInfoPage -INFO - Waiting for page to load
+2018-06-13 13:28:13,806 - pageobjects.BillingInfoPage -INFO - Attempting to fill the form of type 'class pageobjects.BillingInfoPage'
+2018-06-13 13:28:13,884 - pageobjects.BillingInfoPage -INFO -   Inputting value 'fakeemail@yhaoo.com' for textbox field 'email'.
+2018-06-13 13:28:14,436 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Firstname' for textbox field 'billingFirstName'.
+2018-06-13 13:28:14,811 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Lastname' for textbox field 'billingLastName'.
+2018-06-13 13:28:15,150 - pageobjects.BillingInfoPage -INFO -   Inputting value '100 Fake St' for textarea field 'billingAddress'.
+2018-06-13 13:28:15,508 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Fakecity' for textbox field 'billingCity'.
+2018-06-13 13:28:15,886 - pageobjects.BillingInfoPage -INFO -  Selecting value 'Canada' for dropdown field 'billingCountry'.
+2018-06-13 13:28:16,036 - pageobjects.BillingInfoPage -INFO -   Inputting value 'L1L 1L1' for textbox field 'billingPostcode'.
+2018-06-13 13:28:16,432 - pageobjects.BillingInfoPage -INFO -   Inputting value '4161111111' for textbox field 'billingPhone'.
+2018-06-13 13:28:16,887 - pageobjects.BillingInfoPage -INFO -   Selecting checkbox field 'shippingSameBilling'.
+2018-06-13 13:28:17,000 - pageobjects.BillingInfoPage -INFO - Click on Purchase button and confirm the order
+2018-06-13 13:28:48,137 - pageobjects.TransactionResultPage -INFO - Waiting for page to load
+2018-06-13 13:28:49,149 - pageobjects.TransactionResultPage -INFO - Verifying Transaction result page displays right items with right quantities and prices
+2018-06-13 13:28:49,485 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:28:50,821 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:28:51,829 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:28:54,148 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:28:55,157 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:28:56,216 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:28:56,325 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:28:58,428 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:28:58,596 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:29:00,615 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:29:00,726 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:29:06,550 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:29:09,669 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:29:10,802 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:29:11,951 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:29:12,960 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:29:17,578 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:29:18,588 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:29:19,633 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:29:19,778 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:29:30,755 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:29:32,011 - pageobjects.CheckoutPage -INFO - Updating the quantity of Magic Mouse
+2018-06-13 13:29:35,929 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:31:50,717 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:31:54,528 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:31:55,578 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:31:58,978 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:31:59,990 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:01,054 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:32:01,200 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:03,269 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:32:03,413 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:05,426 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:32:05,524 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:11,621 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:32:12,694 - pageobjects.CheckoutPage -INFO - Verifying checkout page displays right items with right quantities and prices
+2018-06-13 13:32:13,047 - pageobjects.CheckoutPage -INFO - Click continue and navigate to billing information
+2018-06-13 13:32:13,157 - pageobjects.BillingInfoPage -INFO - Waiting for page to load
+2018-06-13 13:32:14,163 - pageobjects.BillingInfoPage -INFO - Attempting to fill the form of type 'class pageobjects.BillingInfoPage'
+2018-06-13 13:32:14,215 - pageobjects.BillingInfoPage -INFO -   Inputting value 'fakeemail@yhaoo.com' for textbox field 'email'.
+2018-06-13 13:32:14,753 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Firstname' for textbox field 'billingFirstName'.
+2018-06-13 13:32:15,143 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Lastname' for textbox field 'billingLastName'.
+2018-06-13 13:32:15,554 - pageobjects.BillingInfoPage -INFO -   Inputting value '100 Fake St' for textarea field 'billingAddress'.
+2018-06-13 13:32:16,182 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Fakecity' for textbox field 'billingCity'.
+2018-06-13 13:32:16,610 - pageobjects.BillingInfoPage -INFO -  Selecting value 'Canada' for dropdown field 'billingCountry'.
+2018-06-13 13:32:16,906 - pageobjects.BillingInfoPage -INFO -   Inputting value 'L1L 1L1' for textbox field 'billingPostcode'.
+2018-06-13 13:32:17,333 - pageobjects.BillingInfoPage -INFO -   Inputting value '4161111111' for textbox field 'billingPhone'.
+2018-06-13 13:32:17,676 - pageobjects.BillingInfoPage -INFO -   Selecting checkbox field 'shippingSameBilling'.
+2018-06-13 13:32:17,802 - pageobjects.BillingInfoPage -INFO - Click on Purchase button and confirm the order
+2018-06-13 13:32:28,674 - pageobjects.TransactionResultPage -INFO - Waiting for page to load
+2018-06-13 13:32:29,684 - pageobjects.TransactionResultPage -INFO - Verifying Transaction result page displays right items with right quantities and prices
+2018-06-13 13:32:30,201 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:32:31,976 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:32:32,992 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:32:35,767 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:32:36,785 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:37,866 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:32:37,964 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:40,056 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:32:44,123 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:32:45,140 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:32:48,348 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:32:49,358 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:50,395 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:32:50,482 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:52,536 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:32:52,641 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:54,651 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 13:32:54,699 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:32:58,325 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:33:02,490 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:33:03,643 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 13:33:04,783 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:33:05,798 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 13:33:09,786 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 13:33:10,794 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:33:11,864 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 13:33:11,964 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 13:33:19,309 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 13:33:20,506 - pageobjects.CheckoutPage -INFO - Updating the quantity of Magic Mouse
+2018-06-13 13:33:24,585 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 14:01:11,542 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 14:01:16,051 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:01:17,099 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 14:01:20,883 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:01:21,911 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:01:23,021 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 14:01:23,149 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:01:25,229 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 14:01:25,339 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:01:27,361 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 14:01:27,534 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:01:31,418 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 14:01:32,523 - pageobjects.CheckoutPage -INFO - Verifying checkout page displays right items with right quantities and prices
+2018-06-13 14:01:32,847 - pageobjects.CheckoutPage -INFO - Click continue and navigate to billing information
+2018-06-13 14:01:32,956 - pageobjects.BillingInfoPage -INFO - Waiting for page to load
+2018-06-13 14:01:33,967 - pageobjects.BillingInfoPage -INFO - Attempting to fill the form of type 'class pageobjects.BillingInfoPage'
+2018-06-13 14:01:34,020 - pageobjects.BillingInfoPage -INFO -   Inputting value 'fakeemail@yhaoo.com' for textbox field 'email'.
+2018-06-13 14:01:34,524 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Firstname' for textbox field 'billingFirstName'.
+2018-06-13 14:01:34,860 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Lastname' for textbox field 'billingLastName'.
+2018-06-13 14:01:35,163 - pageobjects.BillingInfoPage -INFO -   Inputting value '100 Fake St' for textarea field 'billingAddress'.
+2018-06-13 14:01:35,541 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Fakecity' for textbox field 'billingCity'.
+2018-06-13 14:01:36,045 - pageobjects.BillingInfoPage -INFO -  Selecting value 'Canada' for dropdown field 'billingCountry'.
+2018-06-13 14:01:36,338 - pageobjects.BillingInfoPage -INFO -   Inputting value 'L1L 1L1' for textbox field 'billingPostcode'.
+2018-06-13 14:01:36,765 - pageobjects.BillingInfoPage -INFO -   Inputting value '4161111111' for textbox field 'billingPhone'.
+2018-06-13 14:01:37,121 - pageobjects.BillingInfoPage -INFO -   Selecting checkbox field 'shippingSameBilling'.
+2018-06-13 14:01:37,225 - pageobjects.BillingInfoPage -INFO - Click on Purchase button and confirm the order
+2018-06-13 14:01:48,135 - pageobjects.TransactionResultPage -INFO - Waiting for page to load
+2018-06-13 14:01:49,154 - pageobjects.TransactionResultPage -INFO - Verifying Transaction result page displays right items with right quantities and prices
+2018-06-13 14:01:49,596 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 14:01:51,051 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:01:52,062 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 14:01:55,033 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:01:56,052 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:01:57,131 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 14:01:57,236 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:02:01,570 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 14:02:02,659 - pageobjects.CheckoutPage -INFO - Verifying checkout page displays right items with right quantities and prices
+2018-06-13 14:02:02,891 - pageobjects.CheckoutPage -INFO - Click continue and navigate to billing information
+2018-06-13 14:02:02,987 - pageobjects.BillingInfoPage -INFO - Waiting for page to load
+2018-06-13 14:02:03,998 - pageobjects.BillingInfoPage -INFO - Attempting to fill the form of type 'class pageobjects.BillingInfoPage'
+2018-06-13 14:02:04,055 - pageobjects.BillingInfoPage -INFO -   Inputting value 'fakeemail@yhaoo.com' for textbox field 'email'.
+2018-06-13 14:02:04,519 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Firstname' for textbox field 'billingFirstName'.
+2018-06-13 14:02:04,857 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Lastname' for textbox field 'billingLastName'.
+2018-06-13 14:02:05,181 - pageobjects.BillingInfoPage -INFO -   Inputting value '100 Fake St' for textarea field 'billingAddress'.
+2018-06-13 14:02:05,517 - pageobjects.BillingInfoPage -INFO -   Inputting value 'Fakecity' for textbox field 'billingCity'.
+2018-06-13 14:02:05,838 - pageobjects.BillingInfoPage -INFO -  Selecting value 'Canada' for dropdown field 'billingCountry'.
+2018-06-13 14:02:05,969 - pageobjects.BillingInfoPage -INFO -   Inputting value 'L1L 1L1' for textbox field 'billingPostcode'.
+2018-06-13 14:02:06,369 - pageobjects.BillingInfoPage -INFO -   Inputting value '4161111111' for textbox field 'billingPhone'.
+2018-06-13 14:02:06,914 - pageobjects.BillingInfoPage -INFO -   Selecting checkbox field 'shippingSameBilling'.
+2018-06-13 14:02:07,042 - pageobjects.BillingInfoPage -INFO - Click on Purchase button and confirm the order
+2018-06-13 14:02:33,014 - pageobjects.TransactionResultPage -INFO - Waiting for page to load
+2018-06-13 14:02:34,034 - pageobjects.TransactionResultPage -INFO - Verifying Transaction result page displays right items with right quantities and prices
+2018-06-13 14:02:34,387 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 14:02:36,235 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:02:37,245 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 14:02:40,831 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:02:41,845 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:02:42,914 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 14:02:42,998 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:02:45,075 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 14:02:45,143 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:02:47,160 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Apple TV to cart...
+2018-06-13 14:02:47,262 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:02:52,484 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 14:02:57,229 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 14:02:58,374 - tests.ShoppingCartTests -INFO - Initiating the test session
+2018-06-13 14:03:00,122 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:03:01,129 - pageobjects.HomePage -INFO - Navigating to Product Category > Accessories via navigation menu
+2018-06-13 14:03:03,830 - pageobjects.HomePage -INFO - Waiting for page to load
+2018-06-13 14:03:04,845 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:03:05,894 - pageobjects.AccessoriesPage -INFO - Clicking on 'AddToCart' button and adding Magic Mouse to cart...
+2018-06-13 14:03:06,012 - pageobjects.AccessoriesPage -INFO - Waiting for page to load
+2018-06-13 14:03:12,259 - pageobjects.CheckoutPage -INFO - Waiting for page to load
+2018-06-13 14:03:13,439 - pageobjects.CheckoutPage -INFO - Updating the quantity of Magic Mouse
+2018-06-13 14:03:15,320 - pageobjects.CheckoutPage -INFO - Waiting for page to load

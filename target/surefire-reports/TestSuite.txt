@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 102.265 s <<< FAILURE! - in TestSuite
+createOrder_forOneMagicMouse_createdSuccessfully(tests.ShoppingCartTests)  Time elapsed: 9.855 s  <<< FAILURE!
+java.lang.AssertionError: Expected the number of items in the cart to be 1 but found 0 expected [1] but found [0]
+	at tests.ShoppingCartTests.createOrder_forOneMagicMouse_createdSuccessfully(ShoppingCartTests.java:36)
+
+removeAnItem_ffromCheckoutPage_removedSuccessfully(tests.ShoppingCartTests)  Time elapsed: 23.587 s  <<< FAILURE!
+java.lang.AssertionError: Expected only 1 item to be displayed in the cart but 2 items were displayed expected [2] but found [1]
+	at tests.ShoppingCartTests.removeAnItem_ffromCheckoutPage_removedSuccessfully(ShoppingCartTests.java:109)
+
