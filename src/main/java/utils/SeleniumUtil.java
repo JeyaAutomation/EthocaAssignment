@@ -165,4 +165,13 @@ public class SeleniumUtil
     
     wdw.until(ExpectedConditions.presenceOfElementLocated(by));
   }
+  
+  public static void waitForElementToDisappear(WebDriver driver, WebElement el)
+  {
+    WebDriverWait wdw = new WebDriverWait(driver, 60L);
+    wdw.withMessage(
+      String.format("Timed out waiting for the element with property '%s' to disappear.", new Object[] { el.toString() }));
+    
+    wdw.until(ExpectedConditions.invisibilityOf(el));
+  }
 }
